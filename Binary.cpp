@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-//Çó¶ş½øÖÆÖĞ1µÄ¸öÊı
-//1.ÒÆÎ»ÅĞ¶Ï£¬¼ÆÊı¼Ó¼Ó
+//æ±‚äºŒè¿›åˆ¶ä¸­1çš„ä¸ªæ•°
+//1.ç§»ä½åˆ¤æ–­ï¼Œè®¡æ•°åŠ åŠ 
 int BitCount1(int num)
 {
 	int count = 0;
@@ -14,7 +14,7 @@ int BitCount1(int num)
 	}
 	return count;
 }
-//2.¿ìËÙ·¨
+//2.å¿«é€Ÿæ³•
 int BitCount(int num)
 {
 	int count = 0;
